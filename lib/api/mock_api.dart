@@ -76,7 +76,6 @@ class MockApi {
     return 'Success';
   }
 
-  // --- UPDATED loginUser function ---
   Future<String> loginUser(String email, String plainTextPassword) async {
     await Future.delayed(const Duration(seconds: 1));
 
