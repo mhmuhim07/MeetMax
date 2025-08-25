@@ -1,0 +1,14 @@
+# This file configures the static analysis results for your project (errors,
+# warnings, and lints).
+#
+# This enables the lint rules recommended by the Flutter team.
+# You can see the full list of rules here:
+# https://flutter.dev/docs/testing/analysis-options
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  # You can add custom lint rules here if you want to override the defaults.
+  # For example, to disable a specific rule:
+  # rules:
+  #   - avoid_print
