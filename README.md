@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+#Screenshots
+![auth-screen](https://github.com/mhmuhim07/MeetMax/blob/2cb73a0165a2f1d2d193abe207e2d941885e28b1/auth.png)
+![feed-screen](https://github.com/mhmuhim07/MeetMax/blob/2cb73a0165a2f1d2d193abe207e2d941885e28b1/feed.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
